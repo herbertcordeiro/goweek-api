@@ -1,0 +1,11 @@
+{
+  "name": "goweek-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/herbertcordeiro/goweek-backend.git",
+  "author": "herbertcordeiro <herbert.cordeiro@dce.ufpb.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
